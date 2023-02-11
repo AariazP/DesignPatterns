@@ -41,3 +41,13 @@ Existen diferentes tipos de patrones de diseño, entre ellos:
 - Patrones de creación: se encargan de la creación de objetos y se enfocan en ocultar la complejidad de la creación de objetos detrás de una interfaz fácil de usar. Ejemplo: Factory Method.
 - Patrones estructurales: se encargan de la estructuración de objetos y clases para formar patrones más grandes y complejos. Ejemplo: Decorator.
 - Patrones de comportamiento: se enfocan en la forma en que los objetos interactúan entre sí y en la distribución de responsabilidades entre objetos. Ejemplo: Observer.
+
+
+## License
+
+MIT
+
+**Free Software, Hell Yeah!**
+
+
+
