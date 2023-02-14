@@ -31,7 +31,7 @@ public class Main {
             Si el cliente solo quiere un café, no hacemos nada, simplemente lo servimos.
             Si el cliente quiere un café con un shot de espresso, lo agregamos.
          */
-        cafe = new ShotEspresso(cafe);
+        //cafe = new ShotEspresso(cafe);
 
         /*
             Gracias a la interfaz Bebida, podemos hacer que el código sea más flexible y que no dependa de la clase Cafe.

@@ -21,7 +21,7 @@ public class LamparaHogarUKAdapter implements Enchufable{
     }
 
     /**
-     * Método que enciende la lámpara de UK
+     *  Método que enciende la lámpara de UK
      */
     public void enchufar(){
         lamparaHogarUK.encender();
