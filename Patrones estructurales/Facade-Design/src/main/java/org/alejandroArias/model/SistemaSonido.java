@@ -41,7 +41,7 @@ public class SistemaSonido {
     }
 
     public void encender() {
-        System.out.println("Encendiendo sistema de sonido");
+        System.out.println(" Encendiendo sistema de sonido");
     }
 
     public void ajustarVolumen() {

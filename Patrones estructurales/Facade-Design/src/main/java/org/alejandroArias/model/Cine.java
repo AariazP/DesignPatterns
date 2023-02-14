@@ -21,7 +21,9 @@ public class Cine {
     }
 
     /*
-      En este punto es donde se implementa el patron de diseño Facade
+        En este punto es donde se implementa el patron de diseño Facade
+        Este patron de diseño nos permite ocultar la complejidad de las clases que componen el sistema
+        y solo nos preocupamos de llamar a los métodos que necesitamos
      */
     public void encenderCine(){
         sistemaLuces.encender();

@@ -41,7 +41,7 @@ public class SistemaProyeccion {
     }
 
     public void encender() {
-        System.out.println("Encendiendo sistema de proyección");
+        System.out.println(" Encendiendo sistema de proyección");
     }
 
     public void reproducirPelicula(Pelicula pelicula) {

@@ -3,7 +3,7 @@ package org.alejandroArias.application;
 import org.alejandroArias.model.*;
 
 public class Main {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
         /*
             Imaginemos que trabajamos para un cine y somos los encargados
             de la administración de las películas que se proyectan en él.
@@ -76,14 +76,23 @@ public class Main {
 
         cine.encenderCine();
 
+        Thread.sleep(400); //Esperamos 300 milisegundos, pero esto solo es para que se vea mejor en la consola
+                                //No es necesario hacerlo
+
 
         //Solo llamamos los metodos, no nos preocupamos por como funcionan
 
         cine.reproducirPelicula();
 
+        Thread.sleep(400);
+
+
         //Cada uno de los métodos de la clase Cine se encarga de llamar a los métodos de las clases
 
         cine.detenerPelicula();
+
+        Thread.sleep(400);
+
 
 
 
