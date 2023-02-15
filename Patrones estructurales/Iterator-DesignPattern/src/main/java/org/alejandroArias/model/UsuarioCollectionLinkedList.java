@@ -40,7 +40,7 @@ public class UsuarioCollectionLinkedList implements Iterator{
         this.usuarios = usuarios;
     }
 
-    
+
 
 
 }
