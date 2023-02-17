@@ -10,6 +10,8 @@ public class Usuario {
         this.apellido = apellido;
     }
 
+
+
     public String getNombre() {
         return nombre;
     }
@@ -24,5 +26,13 @@ public class Usuario {
 
     public void setApellido(String apellido) {
         this.apellido = apellido;
+    }
+
+    @Override
+    public String toString() {
+        return "Usuario{" +
+                "nombre='" + nombre + '\'' +
+                ", apellido='" + apellido + '\'' +
+                '}';
     }
 }

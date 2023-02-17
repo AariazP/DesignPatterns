@@ -2,6 +2,11 @@ package org.alejandroArias.model;
 
 public class UsuarioCollectionArray implements  Iterator<Usuario>{
 
+    /*
+         Esta clase es un iterador de usuarios
+         que recorre un array de usuarios
+
+     */
     private Usuario[] usuarios;
     private int position;
 

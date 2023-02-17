@@ -3,8 +3,13 @@ package org.alejandroArias.model;
 import java.util.LinkedList;
 import java.util.List;
 
-public class UsuarioCollectionLinkedList implements Iterator{
+public class UsuarioCollectionLinkedList implements Iterator<Usuario>{
 
+    /*
+        Lista enlazada de usuarios que será el elemento que
+        recorreremos con el patrón iterator (Iterator<Usuario>)
+
+     */
     private LinkedList<Usuario> usuarios;
 
 
@@ -28,7 +33,7 @@ public class UsuarioCollectionLinkedList implements Iterator{
     }
 
     @Override
-    public Object next() {
+    public Usuario next() {
         return this.usuarios.removeFirst();
     }
 

@@ -9,5 +9,5 @@ public interface Iterator<T>{
      */
      boolean hasNext();
      T next();
-
+     void add(T t);
 }

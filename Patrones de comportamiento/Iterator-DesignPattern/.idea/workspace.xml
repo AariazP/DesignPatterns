@@ -36,6 +36,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/alejandroarias/Desktop/DesignPatterns/Patrones de comportamiento/Iterator-DesignPattern",
     "settings.editor.selected.configurable": "com.obiscr.chatgpt.settings.ChatGPTSettingsPanel"
   },
   "keyToStringList": {
@@ -55,6 +56,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676420032283</updated>
       <workItem from="1676420033462" duration="3775000" />
+      <workItem from="1676660982032" duration="733000" />
     </task>
     <servers />
   </component>
