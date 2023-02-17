@@ -10,8 +10,19 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2LsVEijwOADhw0E9IjuQgDGuCFc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -23,7 +34,9 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/alejandroarias/Desktop/DesignPatterns/Patrones de comportamiento/Observer-DesignPattern"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -42,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676659671279</updated>
       <workItem from="1676659672527" duration="586000" />
+      <workItem from="1676662328569" duration="2185000" />
     </task>
     <servers />
   </component>
