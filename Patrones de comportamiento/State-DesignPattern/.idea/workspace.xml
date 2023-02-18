@@ -35,7 +35,9 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false"
+    "WebServerToolWindowFactoryState": "false",
+    "full.screen.before.presentation.mode": "true",
+    "last_opened_file_path": "/Users/alejandroarias/Desktop/DesignPatterns/Patrones de comportamiento/State-DesignPattern"
   },
   "keyToStringList": {
     "GitStage.ChangesTree.GroupingKeys": [
@@ -53,7 +55,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676672702332</updated>
-      <workItem from="1676672704995" duration="1647000" />
+      <workItem from="1676672704995" duration="1850000" />
+      <workItem from="1676677501439" duration="1334000" />
     </task>
     <servers />
   </component>
