@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Patrones estructurales/Facade-DesignPattern" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/Patrones estructurales/Iterator-DesignPattern" vcs="Git" />
-  </component>
-</project>
